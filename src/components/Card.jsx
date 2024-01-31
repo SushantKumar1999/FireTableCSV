@@ -101,7 +101,7 @@ const Card = () => {
       {/* Display the CSV data in a table */}
       {csvData.length > 0 && (
 
-        <div className="upload" style={{ paddingTop: "80px" }} >
+        <div className="flex flex-col w-[900px]" style={{ paddingTop: "80px" }} >
           <p className="para" style={{ font: "figtree", fontSize: "24px", }}>Uploads</p>
           <div className="mt-4" style={{ maxHeight: "400px", overflowY: "auto" }}>
             <table className=" rounded table-auto w-full shadow-md mt-5 border-separate border-spacing-y-3 w-[1165px] h-[496px]">
