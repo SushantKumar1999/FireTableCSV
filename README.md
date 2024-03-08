@@ -45,7 +45,8 @@ View the uploaded data in the table on the home screen.
 Contributing
 Contributions are welcome! Fork the repository, make changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
