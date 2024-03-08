@@ -48,5 +48,4 @@ Contributions are welcome! Fork the repository, make changes, and submit a pull 
 License
 This project is licensed under the MIT License.
 
-css
 
